@@ -13,12 +13,12 @@ Everything shown in the talk runs in "Linus Kitchen" (which itself is a develope
 
 ## Demo Content
 
-Part 1: Brief introduction to the tools:
+**Part 1: Minimalist introduction to the tools:**
 
  * [vagrant-basics](./vagrant-basics) - short introduction to Vagrant, covering the essentials
  * [chef-basics](./chef-basics) - minimal introduction to Chef concepts using `chef-apply`
  * [serverspec-basics](./serverspec-basics) - short demo of serverspec
 
-Part 2: Setting up a Java Developer VM:
+**Part 2: Setting up a Java Developer VM:**
 
  * [tknerr/etka2017-developer-vm](https://github.com/tknerr/etka2017-developer-vm) - setting up an example developer VM with a Java / Maven / Eclipse toolchain
