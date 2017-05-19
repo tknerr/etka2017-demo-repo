@@ -7,7 +7,7 @@ A minimal example to demonstrate [serverspec](http://serverspec.org/) in less th
 
 Run the specs / tests defined in `etka_spec.rb`:
 ```
-$ rspec etka_spec.rb --color --format=doc
+$ rspec etka_spec.rb
 ```
 
 ### Links and Resources
