@@ -8,6 +8,9 @@ service "ufw" do
 end
 
 file "/tmp/etka-demo" do
-  content "Etka!"
+  content <<~EOF
+    Etka!
+    https://entwicklertag.de/karlsruhe/2017/
+  EOF
   mode "0644"
 end
