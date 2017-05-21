@@ -1,9 +1,11 @@
 
 # "Automatisierte Entwickler VMs" Demo Repository
 
-Demo repository for my [#ETKA 2017](https://entwicklertag.de/karlsruhe/2017) talk ["Automatisierte Entwickler VMs -- 'works on my machine' zählt nicht mehr ;-)"](https://entwicklertag.de/karlsruhe/2017/automatisierte-entwickler)
+Demo repository for my [#ETKA 2017 talk](https://entwicklertag.de/karlsruhe/2017/automatisierte-entwickler) talk about automating developer VMs. It contains all the code snippets to be shown (more or less likely in that order...)
 
-It contains all the code snippets to be shown (more or less likely in that order...)
+Slides:
+
+ * [Automatisierte Entwickler VMs -- "works on my machine" zählt nicht mehr ;-)](https://www.slideshare.net/tknerr/automatisierte-entwickler-vms-works-on-my-machine-zhlt-nicht-mehr)
 
 ## Development Environment
 
