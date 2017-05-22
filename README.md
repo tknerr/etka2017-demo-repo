@@ -3,15 +3,13 @@
 
 Demo repository for my [#ETKA 2017 talk](https://entwicklertag.de/karlsruhe/2017/automatisierte-entwickler) talk about automating developer VMs. It contains all the code snippets to be shown (more or less likely in that order...)
 
-## Slides
-
-Find the slides here:
+## Slides from the Talk
 
  * [Automatisierte Entwickler VMs -- "works on my machine" zählt nicht mehr ;-)](https://www.slideshare.net/tknerr/automatisierte-entwickler-vms-works-on-my-machine-zhlt-nicht-mehr)
 
 ## Development Environment
 
-Everything shown in the talk was run in "Linus Kitchen" (a developer VM for hacking on infrastructure-as-code):
+Everything shown in the talk was run in "Linus Kitchen":
 
  * [Linus' Kitchen](https://github.com/tknerr/linus-kitchen) - a developer VM with Chef, Vagrant and Docker for hacking on Infrastructure-as-Code stuff
 
