@@ -15,14 +15,12 @@ Everything shown in the talk was run in "Linus Kitchen" (a developer VM for hack
 
  * [Linus' Kitchen](https://github.com/tknerr/linus-kitchen) - a developer VM with Chef, Vagrant and Docker for hacking on Infrastructure-as-Code stuff
 
-## Demo Content
-
-**Part 1: Minimalist introduction to the tools:**
+## Demo Part 1: Minimalist introduction to the tools
 
  * [vagrant-basics](./vagrant-basics) - short introduction to Vagrant, covering the essentials
  * [chef-basics](./chef-basics) - minimal introduction to Chef concepts using `chef-apply`
  * [serverspec-basics](./serverspec-basics) - short demo of serverspec
 
-**Part 2: Setting up a Java Developer VM:**
+## Demo Part 2: Setting up a Java Developer VM
 
  * [tknerr/etka2017-developer-vm](https://github.com/tknerr/etka2017-developer-vm) - setting up an example developer VM with a Java / Maven / Eclipse toolchain
