@@ -21,4 +21,4 @@ Everything shown in the talk was run in "Linus Kitchen":
 
 ## Demo Part 2: Setting up a Java Developer VM
 
- * [tknerr/etka2017-developer-vm](https://github.com/tknerr/etka2017-developer-vm) - setting up an example developer VM with a Java / Maven / Eclipse toolchain
+ * [tknerr/etka2017-developer-vm](https://github.com/tknerr/etka2017-developer-vm) - setting up an example developer VM with a Java / Maven / Eclipse toolchain (see the [pull requests](https://github.com/tknerr/etka2017-developer-vm/pulls?q=is%3Apr+is%3Aclosed) to follow along the individual steps how this developer VM has been set up)
